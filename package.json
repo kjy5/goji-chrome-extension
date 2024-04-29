@@ -11,29 +11,29 @@
     "package": "plasmo package"
   },
   "dependencies": {
-    "@emotion/react": "^11.11.0",
-    "@emotion/styled": "^11.11.0",
-    "@fontsource/roboto": "^5.0.3",
-    "@mui/icons-material": "^5.11.16",
-    "@mui/material": "^5.13.5",
-    "@plasmohq/storage": "^1.6.1",
-    "plasmo": "0.76.3",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@fontsource/roboto": "^5.0.13",
+    "@mui/icons-material": "^5.15.15",
+    "@mui/material": "^5.15.15",
+    "@plasmohq/storage": "^1.10.0",
+    "plasmo": "0.86.1",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
   },
   "devDependencies": {
-    "@plasmohq/prettier-plugin-sort-imports": "3.6.4",
-    "@types/chrome": "0.0.237",
-    "@types/node": "18.15.11",
-    "@types/react": "18.0.32",
-    "@types/react-dom": "18.0.11",
-    "@typescript-eslint/eslint-plugin": "^5.59.8",
-    "@typescript-eslint/parser": "^5.59.8",
+    "@plasmohq/prettier-plugin-sort-imports": "4.0.1",
+    "@types/chrome": "0.0.267",
+    "@types/node": "20.12.7",
+    "@types/react": "18.3.1",
+    "@types/react-dom": "18.3.0",
+    "@typescript-eslint/eslint-plugin": "^7.7.1",
+    "@typescript-eslint/parser": "^7.7.1",
     "eslint": "^8.43.0",
-    "eslint-plugin-react-hooks": "^4.6.0",
-    "eslint-plugin-react-refresh": "^0.4.1",
-    "prettier": "2.8.7",
-    "typescript": "5.0.3"
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "eslint-plugin-react-refresh": "^0.4.6",
+    "prettier": "3.2.5",
+    "typescript": "5.4.5"
   },
   "manifest": {
     "host_permissions": [
